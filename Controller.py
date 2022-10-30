@@ -1,6 +1,6 @@
-from Sorty import sort,get_da
-from Veiw import get_number_operation,get_data
-from Read_and_Write import read_file,write_file
+from Sorty import sort, get_da
+from Veiw import get_number_operation, get_data
+from Read_and_Write import read_file, write_file
 from Main import sort_data
 
 

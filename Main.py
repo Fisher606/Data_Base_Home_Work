@@ -1,4 +1,4 @@
-def sorty_data(number,read,write,sor,da,data):
+def sort_data(number,read,write,sor,da,data):
     while True: 
         d=number()
         if d=='1':
